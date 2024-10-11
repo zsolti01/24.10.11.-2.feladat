@@ -1,0 +1,7 @@
+C:\Users\vecseizs\Gitwork\24_10_11_2_feladat\bin\Debug\24_10_11_2_feladat.exe.config
+C:\Users\vecseizs\Gitwork\24_10_11_2_feladat\bin\Debug\24_10_11_2_feladat.exe
+C:\Users\vecseizs\Gitwork\24_10_11_2_feladat\bin\Debug\24_10_11_2_feladat.pdb
+C:\Users\vecseizs\Gitwork\24_10_11_2_feladat\obj\Debug\24_10_11_2_feladat.csproj.AssemblyReference.cache
+C:\Users\vecseizs\Gitwork\24_10_11_2_feladat\obj\Debug\24_10_11_2_feladat.csproj.CoreCompileInputs.cache
+C:\Users\vecseizs\Gitwork\24_10_11_2_feladat\obj\Debug\24_10_11_2_feladat.exe
+C:\Users\vecseizs\Gitwork\24_10_11_2_feladat\obj\Debug\24_10_11_2_feladat.pdb
